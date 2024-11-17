@@ -1,0 +1,15 @@
+remote_theme: starry99/catbook
+
+title: Daring Meatball
+email: eon-talkers0x@icloud.com
+description: >
+  A place to hang my idle thoughts.
+url: https://larkost.github.io/daring-meatball/
+
+permalink: /:year-:month/:title
+
+user:
+  name: Karl Kuehn
+  pic: /assets/img/daring-meatball.png
+  picAlt: "Daring Meatball"
+  aboutme: false
